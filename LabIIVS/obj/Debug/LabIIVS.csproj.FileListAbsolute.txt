@@ -1,0 +1,11 @@
+C:\Users\diego\Desktop\GIT\LabIIVS\LabIIVS\bin\Debug\LabIIVS.exe.config
+C:\Users\diego\Desktop\GIT\LabIIVS\LabIIVS\bin\Debug\LabIIVS.exe
+C:\Users\diego\Desktop\GIT\LabIIVS\LabIIVS\bin\Debug\LabIIVS.pdb
+C:\Users\diego\Desktop\GIT\LabIIVS\LabIIVS\obj\Debug\LabIIVS.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\GIT\LabIIVS\LabIIVS\obj\Debug\LabIIVS.Form1.resources
+C:\Users\diego\Desktop\GIT\LabIIVS\LabIIVS\obj\Debug\LabIIVS.Properties.Resources.resources
+C:\Users\diego\Desktop\GIT\LabIIVS\LabIIVS\obj\Debug\LabIIVS.csproj.GenerateResource.cache
+C:\Users\diego\Desktop\GIT\LabIIVS\LabIIVS\obj\Debug\LabIIVS.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\GIT\LabIIVS\LabIIVS\obj\Debug\LabIIVS.exe
+C:\Users\diego\Desktop\GIT\LabIIVS\LabIIVS\obj\Debug\LabIIVS.pdb
+C:\Users\diego\Desktop\GIT\LabIIVS\LabIIVS\obj\Debug\LabIIVS.MenuForm.resources
